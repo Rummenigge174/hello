@@ -1,3 +1,4 @@
 hello, world!
 yjdfz cnhjrf
 другая строка
+Hello, Git!
