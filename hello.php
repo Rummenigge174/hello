@@ -1,6 +1,7 @@
 <?php
 <<<<<<< HEAD
 =======
-session_start();test
+session_start();
+>>>>>>> test
 echo "hello, php!" ?>
-echo "hello, git!" 
+echo 'hello,git!'
